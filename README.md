@@ -1,1 +1,1 @@
-# Implementaci-n-del-modelo-Real-ESRGAN-para-im-genes-satelitales
+# Implementacion-del-modelo-Real-ESRGAN-para-imagenes-satelitales

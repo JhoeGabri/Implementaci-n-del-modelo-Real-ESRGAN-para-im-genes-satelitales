@@ -1,0 +1,36 @@
+Average Metrics:
+Average PSNR: 23.1630
+Average SSIM: 0.6380
+Average MSE: 367.7763
+
+Extreme Cases:
+
+Top 3 images with highest PSNR:
+1. 0843_generated_x4.png: PSNR=29.4139
+2. 0844_generated_x4.png: PSNR=28.4674
+3. 0827_generated_x4.png: PSNR=28.3340
+
+Top 3 images with lowest PSNR:
+1. 0828_generated_x4.png: PSNR=16.9917
+2. 0807_generated_x4.png: PSNR=17.5688
+3. 0860_generated_x4.png: PSNR=18.0346
+
+Top 3 images with highest SSIM:
+1. 0843_generated_x4.png: SSIM=0.9306
+2. 0844_generated_x4.png: SSIM=0.9263
+3. 0868_generated_x4.png: SSIM=0.9248
+
+Top 3 images with lowest SSIM:
+1. 0807_generated_x4.png: SSIM=0.3155
+2. 0839_generated_x4.png: SSIM=0.3521
+3. 0876_generated_x4.png: SSIM=0.3725
+
+Top 3 images with highest MSE:
+1. 0828_generated_x4.png: MSE=1299.9139
+2. 0807_generated_x4.png: MSE=1138.1559
+3. 0860_generated_x4.png: MSE=1022.4053
+
+Top 3 images with lowest MSE:
+1. 0843_generated_x4.png: MSE=74.4207
+2. 0844_generated_x4.png: MSE=92.5419
+3. 0827_generated_x4.png: MSE=95.4297

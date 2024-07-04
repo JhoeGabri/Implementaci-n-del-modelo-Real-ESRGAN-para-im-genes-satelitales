@@ -1,0 +1,36 @@
+Average Metrics:
+Average PSNR: 24.8575
+Average SSIM: 0.6461
+Average MSE: 289.9171
+
+Extreme Cases:
+
+Top 3 images with highest PSNR:
+1. Desert_desert_104_generated_x4.png: PSNR=38.3122
+2. Desert_desert_102_generated_x4.png: PSNR=37.1916
+3. Desert_desert_103_generated_x4.png: PSNR=36.9824
+
+Top 3 images with lowest PSNR:
+1. DenseResidential_denseresidential_101_generated_x4.png: PSNR=17.5038
+2. DenseResidential_denseresidential_107_generated_x4.png: PSNR=17.5715
+3. DenseResidential_denseresidential_104_generated_x4.png: PSNR=18.1916
+
+Top 3 images with highest SSIM:
+1. Desert_desert_104_generated_x4.png: SSIM=0.9393
+2. Desert_desert_103_generated_x4.png: SSIM=0.9327
+3. Desert_desert_106_generated_x4.png: SSIM=0.9202
+
+Top 3 images with lowest SSIM:
+1. SparseResidential_sparseresidential_102_generated_x4.png: SSIM=0.3516
+2. SparseResidential_sparseresidential_106_generated_x4.png: SSIM=0.3646
+3. SparseResidential_sparseresidential_104_generated_x4.png: SSIM=0.3649
+
+Top 3 images with highest MSE:
+1. DenseResidential_denseresidential_101_generated_x4.png: MSE=1155.3256
+2. DenseResidential_denseresidential_107_generated_x4.png: MSE=1137.4406
+3. DenseResidential_denseresidential_104_generated_x4.png: MSE=986.1068
+
+Top 3 images with lowest MSE:
+1. Desert_desert_104_generated_x4.png: MSE=9.5910
+2. Desert_desert_102_generated_x4.png: MSE=12.4142
+3. Desert_desert_103_generated_x4.png: MSE=13.0269

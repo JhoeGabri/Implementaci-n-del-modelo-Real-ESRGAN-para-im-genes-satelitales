@@ -1,5 +1,5 @@
 
-# Real-ESRGAN con Dataset AID Satelital
+# Real-ESRGAN con Dataset AID
 
 Este repositorio es una rama del proyecto [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN.git), un potente modelo de superresolución basado en redes neuronales. Aquí, nos enfocamos en la mejora y adaptación de este modelo utilizando el dataset satelital AID para pruebas y validaciones.
 
